@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-hacker
+title: Сайт-портфолио
+description: ✌🏻🐧
+---
+
 <p align="center" style="font-size:20px;">
 Привет! 
 Рада видеть тебя на моём первом сайте (он создан с помощью GitHub Pages & Markdown)
