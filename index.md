@@ -122,5 +122,5 @@ _**Тогда я поняла: IT — последняя сфера, котор�
 
 
 
-<p align="center" style="font-size:20px;"> 💻💖🌌
+<p align="center" style="font-size:20px;">Let's go coding
 </p>
