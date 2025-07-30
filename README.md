@@ -15,9 +15,9 @@
 
 <br>
 
-<div style="display: flex; gap: 200px;">
-  <img src="photo_2025-07-29_23-52-50.jpg" alt="Моё фото" width="300"/>       
-  <img src="photo_2025-07-29_23-52-52.jpg" alt="Моё фото" width="300"/>
+<div style="display: flex; gap: 60px; justify-content: center;">
+  <img src="photo_2025-07-29_23-52-50.jpg" alt="Моё фото" width="300">
+  <img src="photo_2025-07-29_23-52-52.jpg" alt="Моё фото" width="300">
 </div>
 
 <br>
