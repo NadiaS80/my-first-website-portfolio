@@ -15,10 +15,13 @@
 
 <br>
 
-<img src="photo_2025-07-29_23-52-50.jpg" alt="Моё фото" width="300" style = "margin-right: 90px"/>       
-<img src="photo_2025-07-29_23-52-52.jpg" alt="Моё фото" width="300"/>
+<div style="display: flex; gap: 60px; justify-content: center;">
+  <img src="photo_2025-07-29_23-52-50.jpg" alt="Моё фото" width="300">
+  <img src="photo_2025-07-29_23-52-52.jpg" alt="Моё фото" width="300">
+</div>
 
 <br>
+
 
                                           Итак... что же меня привело к тому, что сейчас я пишу сайт...
 
