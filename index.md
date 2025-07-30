@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 title: Сайт-портфолио
 description: ✌🏻🐧
 ---
